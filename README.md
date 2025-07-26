@@ -16,9 +16,11 @@ Simple and fast text formatter
         - Add the directory path to your $PATH in .bashrc or .zshrc
 
 ## Usage
-    in cmd/terminal
+```in cmd/terminal```
 
-```tf "Your text" flags```
+``` bash
+tf "Your text" flags
+```
 
 if you enter only ```tf```, then help list will be displayed
 
